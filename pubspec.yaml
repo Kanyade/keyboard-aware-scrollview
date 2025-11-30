@@ -1,0 +1,20 @@
+name: keyboard_aware_scrollview
+description: "A ScrollView wrapper that automatically adjusts its size when the keyboard appears."
+version: 0.1.0
+homepage: https://github.com/Kanyade/keyboard-aware-scrollview
+repository: https://github.com/Kanyade/keyboard-aware-scrollview
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  collection: ^1.19.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
